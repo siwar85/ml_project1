@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.log
+nohup.out
+*.bak*
+projet_clone/
